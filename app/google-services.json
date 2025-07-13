@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "603683255865",
+    "firebase_url": "https://trade-it-5b842-default-rtdb.firebaseio.com",
+    "project_id": "trade-it-5b842",
+    "storage_bucket": "trade-it-5b842.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603683255865:android:2ae360f7c9bae2a00bffe8",
+        "android_client_info": {
+          "package_name": "com.example.investidorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKlX8e31Zju78iLjWjmGhZ6r8ADhnkPuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
